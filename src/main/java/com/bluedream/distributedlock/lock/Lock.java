@@ -16,7 +16,7 @@ public interface Lock {
 
     boolean tryLock(long expire, TimeUnit unit) throws InterruptedException;
 
-    boolean lockInterruptibly() throws InterruptedException;
+    void lockInterruptibly() throws InterruptedException;
 
     void unlock();
 
