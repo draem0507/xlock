@@ -14,7 +14,7 @@
         <jackson.version>2.4.4</jackson.version>
         <zookeeper-version>3.4.3</zookeeper-version>
         <squirrel-client.version>2.2.2</squirrel-client.version>
-        <log4j2.version>2.5</log4j2.version>
+        <log4j2.version>2.13.3</log4j2.version>
     </properties>
 
 
